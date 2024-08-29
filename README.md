@@ -1,1 +1,1 @@
-# Snake-game
+# A classic Snake-game
